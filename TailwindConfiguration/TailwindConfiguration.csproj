@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\css\output.css" />
     <Content Include="Assets\tailwind\input.css" />
     <Content Include="Assets\tailwind\output.css" />
     <Content Include="DarkLightMode.aspx" />
@@ -77,6 +78,7 @@
     <Content Include="InvoiceList.aspx" />
     <Content Include="InvoicePreview.aspx" />
     <Content Include="SignIn.aspx" />
+    <Content Include="Styles\tailwind.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -145,8 +147,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="package.json" />
+    <Content Include="INVOICE_README.md" />
+    <Content Include="INVOICE_IMPLEMENTATION.md" />
+    <Content Include="INVOICE_QUICK_REFERENCE.md" />
+    <Content Include="INVOICE_DIAGRAMS.md" />
+    <Content Include="INVOICE_CHECKLIST.md" />
+    <Content Include="INVOICE_START_HERE.md" />
     <None Include="packages.config" />
     <Content Include="Site.Master" />
+    <Content Include="README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
