@@ -147,12 +147,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="package.json" />
-    <Content Include="INVOICE_README.md" />
-    <Content Include="INVOICE_IMPLEMENTATION.md" />
-    <Content Include="INVOICE_QUICK_REFERENCE.md" />
-    <Content Include="INVOICE_DIAGRAMS.md" />
-    <Content Include="INVOICE_CHECKLIST.md" />
-    <Content Include="INVOICE_START_HERE.md" />
+    <Content Include="docs\INVOICE_README.md" />
+    <Content Include="docs\INVOICE_IMPLEMENTATION.md" />
+    <Content Include="docs\INVOICE_QUICK_REFERENCE.md" />
+    <Content Include="docs\INVOICE_DIAGRAMS.md" />
+    <Content Include="docs\INVOICE_CHECKLIST.md" />
+    <Content Include="docs\INVOICE_START_HERE.md" />
     <None Include="packages.config" />
     <Content Include="Site.Master" />
     <Content Include="README.md" />
